@@ -1,0 +1,21 @@
+h1,
+h2
+ {
+  color: darkGreen;
+}
+
+h3{
+  color: seagreen;
+}
+
+h1,
+h2,
+h3,
+p,
+li{
+  font-family: "Helvetica", sans-serif;
+}
+
+img{
+  height: 150px;
+}
